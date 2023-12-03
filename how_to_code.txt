@@ -1,0 +1,14 @@
+salam
+
+1. Si tu veux créer une structure, fais tes bails dans "rpg_struct.h" puis tu peux set ta structure dans "set_rpg_struct.c"
+   créée ton .c a part pour set ta structure et pas de structures poubelles...
+
+2. Si tu veux toucher au jeu principal va dans "my_rpg.c" -> "my_game()" et fais tes fonctions oklm dans des .c séparés
+
+3. Si tu veux toucher a un menu demande a Noah (le goat)
+
+4. code bien dans les bons dossiers et les bons .h, fais des enums / defines, reste a la norme et c²
+
+
+
+PS : les personnages on 8 sprites chacun : avancer haut/bas/droite/gauche et surplace : haut/bas/droite/gauche
